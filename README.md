@@ -8,29 +8,7 @@
 
 <h4 align="center">The Offensive Web Application Penetration Testing Framework.</h4>
 
-<p align="center">
-  <a href="https://www.python.org/download/releases/2.7">
-    <img src="https://img.shields.io/badge/Python-2.7-green.svg">
-  </a>
-  <a href="https://github.com/0xinfection/TIDoS-Framework/releases">
-    <img src="https://img.shields.io/badge/TIDoS-v1.7-blue.svg">
-  </a>
-  <a href="https://github.com/0xinfection/tidos-framework/">
-      <img src="https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg">
-  </a>
-  <a href="https://github.com/0xinfection/TIDoS-Framework/blob/master/doc/LICENSE/">
-    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
-  </a> 
-  <a href="https://github.com/0xinfection/TIDoS-Framework#flawless-features--">
-    <img src="https://img.shields.io/badge/Modules-108-red.svg">
-  </a>
-  <a href="https://travis-ci.org/0xinfection/TIDoS-Framework">
-    <img src="https://img.shields.io/badge/Build-Passing-brightgreen.svg?logo=travis">
-  </a>
-  <a href="https://github.com/0xinfection/TIDoS-Framework/releases/tag/v1.7/">
-    <img src="https://img.shields.io/badge/Release-Stable-green.svg">
-  </a>
-</p>
+
 
 ### Highlights :-
 Here is some light on what the framework is all about:
@@ -93,8 +71,8 @@ python2 tidos.py
 
 You can build it from Dockerfile :
 ```
-git clone https://github.com/0xinfection/tidos-framework.git
-cd tidos-framework/docker
+git clone https://github.com/alex14324/TIDos
+cd TIDos/docker
 docker build -t tidos .
 ```
 
@@ -356,6 +334,4 @@ This project is a very fresh and new project which just simply springed off my m
 
 TIDoS is an in progress work far from perfection and I admit that there may be bugs out there which may cause many modules not to work properly and just bug out. However, being the only single author and maintainer behind this framework, it is my humble request to all users of this framework to hand me the list of modules via raising a [new issue](https://github.com/0xInfection/TIDoS-Framework/issues/new) which simply do not work and bug out, and I would be more than happy to fix them as we jointly make our journey to realising TIDoS as the greatest web penetration testing framework ever built.
 
-Got more suggestions or new ideas? Raise up an [issue](https://github.com/0xinfection/TIDoS-Framework/issues/new) or hit me up via DM on [twitter](https://twitter.com/0xinfection).
 
-> Copyright © [__Infected Drake__](https://twitter.com/0xinfection)
